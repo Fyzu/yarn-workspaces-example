@@ -1,0 +1,15 @@
+{
+  "name": "yarn-workspaces-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "repository": "https://github.com/Fyzu/yarn-workspaces-example.git",
+  "author": "dvpetrov <dvpetrov.main@gmail.com>",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@rispa/core": "^3.0.1"
+  }
+}

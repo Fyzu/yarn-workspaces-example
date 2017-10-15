@@ -1,0 +1,3 @@
+[submodule "packages/rispa-webpack"]
+	path = packages/rispa-webpack
+	url = https://github.com/rispa-io/rispa-webpack.git
